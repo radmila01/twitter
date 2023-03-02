@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "psss11rwere",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5433,
+    "logging": true
+  },
+  "test": {
+    "username": "postgres",
+    "password": "psss11rwere",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5433
+  },
+  "production": {
+    "username": "postgres",
+    "password": "psss11rwere",
+    "database": "postgres",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port": 5433
+  }
+}
